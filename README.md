@@ -4,7 +4,7 @@
 </p>
 
 ## Acerca de mí
-Soy una persona que le encanta la tecnología, desarrollador Frontend y Backend.
+Soy una persona que le encanta la tecnología, la música y la vida.
 
 ## Habilidades
 <p align="left"> 
