@@ -28,3 +28,5 @@ Soy una persona que le encanta la tecnología, la música y la vida.
 <a href="https://linkedin.com/in/nelsonribera1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelsonribera1" height="30" width="40" /></a>
 <a href="https://instagram.com/nelsonribera1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nelsonribera1" height="30" width="40" /></a>
 </p>
+
+![Snake animation](https://github.com/NelsonRs/NelsonRs/blob/output/github-contribution-grid-snake.svg)
